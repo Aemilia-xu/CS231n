@@ -314,7 +314,7 @@
           <mxGeometry x="1531.5" y="465" width="157" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k7GdnuFqswXQR8wuRZgI-88" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span&gt;(c) Backdoor Detection&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="370" y="580" width="350" height="30" as="geometry" />
+          <mxGeometry x="330" y="580" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7GdnuFqswXQR8wuRZgI-89" value="" style="group;fontSize=12;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="110" y="40" width="1148" height="895" as="geometry" />
